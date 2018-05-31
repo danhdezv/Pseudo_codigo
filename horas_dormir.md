@@ -11,4 +11,21 @@ Inicio
 
     Imprimir hora_despertar - hora_dormir
 
+## Corrida de prueba 1
+
+        hora_dormir = 14
+        hora_despertar = 16
+        hora_despertar - hora_dormir = 2
+
+    ## Corrida de prueba 2
+        hora_dormir = 18
+        hora_despertar = 23
+        hora_despertar - hora_dormir = 5
+
+    ## Corrida de prueba 2
+        hora_dormir = 4
+        hora_despertar = 13
+        hora_despertar - hora_dormir = 9
+
+
 Fin
